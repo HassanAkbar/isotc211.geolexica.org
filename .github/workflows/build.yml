@@ -2,7 +2,7 @@ name: site-deploy-github-pages-staging
 
 on:
   push:
-    branches: "adding_build_deploy_staging_workflow"
+    branches: "adding_build_deploy_staging_workflow-1"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
